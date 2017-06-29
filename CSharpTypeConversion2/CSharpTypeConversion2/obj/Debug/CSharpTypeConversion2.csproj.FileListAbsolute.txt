@@ -1,0 +1,5 @@
+c:\visual studio 2013\Projects\CSharpTypeConversion2\CSharpTypeConversion2\bin\Debug\CSharpTypeConversion2.exe.config
+c:\visual studio 2013\Projects\CSharpTypeConversion2\CSharpTypeConversion2\bin\Debug\CSharpTypeConversion2.exe
+c:\visual studio 2013\Projects\CSharpTypeConversion2\CSharpTypeConversion2\bin\Debug\CSharpTypeConversion2.pdb
+c:\visual studio 2013\Projects\CSharpTypeConversion2\CSharpTypeConversion2\obj\Debug\CSharpTypeConversion2.exe
+c:\visual studio 2013\Projects\CSharpTypeConversion2\CSharpTypeConversion2\obj\Debug\CSharpTypeConversion2.pdb
